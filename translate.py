@@ -1,6 +1,6 @@
 from translate import Translator
 
-translator = Translator(from_lang="russian", to_lang="English")
+translator = Translator(from_lang="russian", to_lang="english")
 
 text_Rus = input("что перевести ")
 
